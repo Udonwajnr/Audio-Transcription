@@ -121,7 +121,7 @@ export default function AudioUploader() {
   const testSonnar =()=>{
     toast.success("hello")
   }
-  testSonnar()
+  
   return (
     <div className="container mx-auto px-4 py-8">
         <Toaster richColors  />
@@ -214,7 +214,6 @@ export default function AudioUploader() {
           </div>
         </CardContent>
       </Card>
-      <button onClick={testSonnar}>Test</button>
     </div>
   )
 }
