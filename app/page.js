@@ -86,15 +86,6 @@ export default function Home() {
             <AudioUploader />
           </div>
         </section>
-
-        {/* <section className="text-center mb-16">
-          <h2 className="text-3xl font-bold mb-6">Ready to Get Started?</h2>
-          <p className="text-xl text-gray-600 mb-8">Join thousands of satisfied users and start transcribing today!</p>
-          <div className="flex justify-center space-x-4">
-            <Button size="lg">Sign Up Now</Button>
-            <Button size="lg" variant="outline">Learn More</Button>
-          </div>
-        </section> */}
       </main>
 
       <footer className="bg-gray-800 text-white py-8">
